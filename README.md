@@ -11,8 +11,8 @@ Este es un repositorio centralizado multitecnología (`Python`, `Node.js`, `C#`,
 | País | Proyecto / Herramienta | Tecnologías | Video en YouTube |
 | :---: | :--- | :--- | :---: |
 
-| 🇵🇪 | Scraping SOAT | `Python` / `Requests` | [▶️ Ver Tutorial](https://www.youtube.com/watch?v=7SZ3pNPOTy4) |
-
+| 🇵🇪 | Scraping SOAT | `Python` / `Requests` | [▶️ Ver Tutorial] |
+| 🇵🇪 | Scraping luna polarizada | `Python` / `Requests` |  |
 
 > 💡 *La tabla se actualiza con cada nuevo video del canal. ¡Asegúrate de darle **Star ⭐** al repositorio para no perderte nada!*
 
