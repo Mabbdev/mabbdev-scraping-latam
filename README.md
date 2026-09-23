@@ -13,7 +13,12 @@ Este es un repositorio centralizado multitecnología (`Python`, `Node.js`, `C#`,
 
 | 🇵🇪 | Scraping SOAT | `Python` / `Requests` | [▶️ Ver Tutorial] |
 
-| 🇵🇪 | Scraping luna polarizada | `Python` / `Requests` |  |
+| 🇵🇪 | Scraping luna polarizada | `Python` / `Requests` |[▶️ https://www.youtube.com/watch?v=pwP3iu1vO0U]|
+| 🇵🇪 | Scraping comisión AFP | `Python` / `Requests` | [▶️ https://www.youtube.com/watch?v=Jhqoa4m_Sd0] |
+| 🇵🇪 | Scraping Tipo de cambio | `Python` / `Requests` | [▶️ https://www.youtube.com/watch?v=93owJP2VBzY] |
+| 🇵🇪 | Scraping Licencia conducir | `Python` / `Requests` | [▶️ https://www.youtube.com/watch?v=5s4JV4juH2o] |
+
+| EC | Scraping consulta RUC | `Python` / `Requests` | [▶️ https://www.youtube.com/watch?v=E7OeG4UryQA] |
 
 > 💡 *La tabla se actualiza con cada nuevo video del canal. ¡Asegúrate de darle **Star ⭐** al repositorio para no perderte nada!*
 
