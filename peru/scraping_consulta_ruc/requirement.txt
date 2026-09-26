@@ -1,0 +1,2 @@
+beautifulsoup4==4.13.0
+curl_cffi==0.16.2
