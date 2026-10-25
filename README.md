@@ -20,6 +20,8 @@ Este es un repositorio centralizado multitecnología (`Python`, `Node.js`, `C#`,
 
 | EC | Scraping consulta RUC | `Python` / `Requests` | [▶️ https://www.youtube.com/watch?v=E7OeG4UryQA] |
 
+| AR | Scraping consulta CUIT | `Python` / `Requests` | [▶️ https://www.youtube.com/watch?v=FO6_nY3ZGq4] |
+
 > 💡 *La tabla se actualiza con cada nuevo video del canal. ¡Asegúrate de darle **Star ⭐** al repositorio para no perderte nada!*
 
 ---
@@ -33,6 +35,7 @@ mabbdev-scraping-latam/
 ├── 📁 peru/                # Scripts para SUNAT, SUTRAN, SAT, etc.
 ├── 📁 colombia/            # Scripts para RUNT, Cédulas, etc.
 ├── 📁 ecuador/            # Scripts para SRI
+├── 📁 argentina/            # Scripts para CUIT
 └── README.md
 ```
 
