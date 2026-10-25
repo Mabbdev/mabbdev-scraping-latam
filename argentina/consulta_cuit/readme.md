@@ -5,7 +5,7 @@
 
 # 🇵🇪 Consulta CUIT- Script Scraper
 
-Este proyecto es un script en python que automatiza la consulta de DNI , basada en los tutoriales prácticos del canal **[Mabb.Dev](https://www.youtube.com/@mabbdev)**.
+Este proyecto es un script en python que automatiza la consulta de CUIT , basada en los tutoriales prácticos del canal **[Mabb.Dev](https://www.youtube.com/@mabbdev)**.
 
 ---
 
