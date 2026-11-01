@@ -48,7 +48,7 @@ def calculardigitoVerificacion(dni):
     return digitos[indice]
 
 if __name__=="__main__":
-    print(consultarDNI("00000000"))
+    print(consultarDNI("00000000","dd/mm/yyyy"))
 
 
 
